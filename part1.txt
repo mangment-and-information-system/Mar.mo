@@ -1,0 +1,22 @@
+//projject marco mounir
+<html>
+	<head>
+		<title>vodafone</title>
+	</head>
+	<body>
+		<div id="links">
+			<ul>
+				<li><a href="#">home</a></li>
+				<li><a href="#">services</a></li>
+				<li><a href="#">portfoilo</a></li>
+				<li><a href="#">contact</a></li>
+			</ul>
+		</div><!--/links-->
+		<div id="logo">
+			<img src="image/voda.png"alt="vodafone"/>
+		</div> <!--/logo-->
+		<div id="p">
+			<h1>vodafone</h1>
+			<p>uhyyfgjkhfjggu</p>
+	</body>
+</html>
